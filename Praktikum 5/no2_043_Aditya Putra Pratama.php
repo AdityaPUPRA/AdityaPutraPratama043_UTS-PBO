@@ -69,7 +69,7 @@
             }
             public static function main($args)
             {
-                echo "Alvin Febrianto - 21091397031";
+                echo "Aditya Putra Pratama - 21091397043";
                 echo "<br>";
                 $man = new Manajer("Anri", 7000000, 500000);
                 echo "<br>", "<br>";
