@@ -67,7 +67,7 @@
             }
             public static function main($args)
             {
-                echo "Alvin Febrianto - 21091397031", "\n";
+                echo "Aditya Putra Pratama - 21091397043", "\n";
                 echo "<br>", "<br>";
                 $peg1 = new Manajer("Anri", 7000000);
                 Nomor1::Proses($peg1);
